@@ -32,7 +32,7 @@ Kamilisha changamoto za kila siku, shiriki masuluhisho yako nasi kwenye [Twitter
 - Yetu [Twitter](https://twitter.com/streamlit ) na [LinkedIn](https://www.linkedin.com/company/streamlit/posts/?feedView=all) kwa masasisho ya kila siku
 - Sawazisha [hati](https://docs.streamlit.io/) na [laha ya kudanganya](https://docs.streamlit.io/library/cheatsheet) kwa marejeleo ya kina ya amri za Streamlit
 - [Nyumba ya sanaa](https://streamlit.io/gallery) yetu ya kupendeza kwa msukumo, violezo na programu za jumuiya
-- [Blogu] yetu (<https://blog.streamlit.io/how-to-master-streamlit-for-data-science/>) kwa vidokezo na maelezo ya hivi punde ya Kuhuisha
+- [Blogu](<https://blog.streamlit.io/how-to-master-streamlit-for-data-science/>) yetu kwa vidokezo na maelezo ya hivi punde ya Kuhuisha
 
 ## Tafsiri
 
